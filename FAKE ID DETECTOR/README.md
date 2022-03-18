@@ -1,10 +1,3 @@
-## Table of contents
-* [Tamper Document Detector](#general-info)
-* [Technologies](#technologies)
-* [Scope](#Scope)
-* [Setup](#setup)
-
-
 ## Tamper Document Detector
 The purpose of this project is to detect Tampering/Fraud of Document using computer vision. 
 This project will help the different organizations in detecting whether the Id i.e. the PAN card
@@ -33,6 +26,3 @@ Python -m pip install -r requirements.txt
 * Step 7: You will get URL copy paste in browser
 * Step 8: you have images data folder where you can get image to test
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenprabaharan-selvaraj-86771016b/)
